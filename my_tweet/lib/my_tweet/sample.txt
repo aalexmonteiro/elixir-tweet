@@ -1,0 +1,5 @@
+Testing my Elixir app integrated with twitter
+Elixir is an awesome language
+I'm learn Elixir lang
+A long string with nore 140 characters, because a tweet cant to be more 140 characters. I don't know that to write to complete a tweet very long.
+Testing the my first Elixir application.
